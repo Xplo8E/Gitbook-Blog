@@ -12,7 +12,7 @@ coverY: 0
 
 This blog post has been divided into two parts: a theoretical section that explains how introspection can be used, followed by a practical section that demonstrates how to utilize the introspection schema to identify potential security vulnerabilities by understanding the GraphQL API's structure and functionality.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## What is Introspection?
 
@@ -161,7 +161,7 @@ As you can see, changing the user parameter allows us to access the API key of o
 
 Using graphql voyager to analyse the API's introspection structure, it was revealed that the allUsers query allows accessing all user information such as `username`, `uuid`, and `isAdmin`.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>visual representation of introspection schema with graphql voyager</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>visual representation of introspection schema with graphql voyager</p></figcaption></figure>
 
 A query was created using the above representation to fetch all of the users.
 

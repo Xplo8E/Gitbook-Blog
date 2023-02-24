@@ -6,6 +6,8 @@ coverY: 0
 
 # Who am I
 
+{% embed url="https://0xlinuxinet.netlify.app/" %}
+
 <figure><img src="https://readme-typing-svg.herokuapp.com/?lines=Hacker%3BCTF%20player%3BAlways%20learning%20new%20things&#x26;font=Fira%20Code&#x26;center=true&#x26;width=440&#x26;height=45&#x26;color=f75c7e&#x26;vCenter=true&#x26;size=22" alt=""><figcaption></figcaption></figure>
 
 🔗  Connect with me
