@@ -18,11 +18,11 @@ This blog post has been divided into two parts: a theoretical section that expla
 
 Introspection is a feature of GraphQL that allows a client to query the schema of a GraphQL API to retrieve information about the types, fields, and operations supported by that API. In other words, introspection allows a client to inspect the schema of a GraphQL API at runtime. Using introspection, a client can discover the structure of the API and the data that it can return.
 
-## How can one access the introspection schema for a GraphQL API?
+## How can one access the schema for a GraphQL API?
 
-Introspection in GraphQL allows a client to query the schema of a GraphQL API at runtime to retrieve information about the types, fields, and operations supported by that API.
+The Introspection feature allows you to query the schema and discover the available queries, mutations, subscriptions, types and fields in a specific GraphQL API.
 
-To view the schema of a GraphQL API using introspection, you can send a GraphQL query to the API's `/graphql` endpoint (or another endpoint designated for introspection), with the following syntax:
+To view the schema of a GraphQL API using introspection, you can send a GraphQL query to the API's `/graphql` endpoint (or another endpoint designated for introspection), with the following syntax: (Note that introspection queries start with `__)`
 
 {% code title="Graphql Query to fetch Introspection schema from the api" lineNumbers="true" %}
 ```graphql
@@ -143,7 +143,7 @@ To demonstrate the usage of introspection, I will be using a GraphQL lab.
 
 Lab Link: [https://github.com/david3107/graphql-security-labs](https://github.com/david3107/graphql-security-labs)
 
-In this lab, multiple users share their posts, including an administrator user. The users can access their accounts using their API keys.
+In this lab, multiple users share their posts, including an administrator user. The users can access their accounts using their API keys. Our main goal is to access the admin api key with IDOR vulnerability.
 
 The posts can be retrieved with this query:
 
