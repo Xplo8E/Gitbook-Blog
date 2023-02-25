@@ -229,4 +229,4 @@ By using introspection to understand the schema of a GraphQL API, researchers/de
 
 
 
-{% @mailchimp/mailchimpSubscribe %}
+{% @mailchimp/mailchimpSubscribe cta="Sign up to our mailing list to receive updates!" %}
