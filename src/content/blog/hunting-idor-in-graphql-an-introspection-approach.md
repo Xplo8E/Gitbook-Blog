@@ -226,3 +226,7 @@ We can now obtain the admin user API key using the admin uuid.
 ```
 
 By using introspection to understand the schema of a GraphQL API, researchers/devs can easily hunt bugs and identify discrepancies that may indicate a bug.
+
+
+
+{% @mailchimp/mailchimpSubscribe %}
