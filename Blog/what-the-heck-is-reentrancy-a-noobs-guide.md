@@ -8,7 +8,7 @@ cover: >-
 coverY: 0
 ---
 
-# Reentrancy - a noob explanation
+# What the Heck is Reentrancy? A Noob's Guide
 
 I am writing this blog in the journey of going towards smart contract security, so mistakes can happen in the blog post Please let me know, if you spot any errors so that I can fix them and keep learning.
 
@@ -60,4 +60,4 @@ By repeatedly executing `withdrawBalance()` before it completes, `userBalance[ms
 
 see the screenshot to get picture of reentrancy attack, how it can happen and how it can be exploited.
 
-<figure><img src=".gitbook/assets/reentrancy flow.png" alt=""><figcaption><p>flow </p></figcaption></figure>
+<figure><img src=".gitbook/assets/reentrancy flow.png" alt=""><figcaption><p>reentrancy attack flow </p></figcaption></figure>
