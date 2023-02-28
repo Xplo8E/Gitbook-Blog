@@ -61,3 +61,5 @@ By repeatedly executing `withdrawBalance()` before it completes, `userBalance[ms
 see the screenshot to get picture of reentrancy attack, how it can happen and how it can be exploited.
 
 <figure><img src=".gitbook/assets/reentrancy flow.png" alt=""><figcaption><p>reentrancy attack flow </p></figcaption></figure>
+
+{% @mailchimp/mailchimpSubscribe %}
