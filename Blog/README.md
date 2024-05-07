@@ -4,12 +4,7 @@ cover: >-
 coverY: 0
 ---
 
-# Who am I
+# Me
 
-{% embed url="https://0xlinuxinet.netlify.app/" %}
+Hey everyone, I'm Vinay Kumar Rasala, a security researcher at [Appknox](https://www.appknox.com/). My days are all about digging into mobile and web apps, sniffing out those sneaky vulnerabilities to keep them safe and sound. And hey, I'm not just about the tech grind—I'm all about soaking up knowledge, especially regarding AI and whatever else the future throws our way. Because in this wild world of cybersecurity, staying ahead of the curve isn't just a hobby—it's a necessity.
 
-<figure><img src="https://readme-typing-svg.herokuapp.com/?lines=Hacker%3BCTF%20player%3BAlways%20learning%20new%20things&#x26;font=Fira%20Code&#x26;center=true&#x26;width=440&#x26;height=45&#x26;color=f75c7e&#x26;vCenter=true&#x26;size=22" alt=""><figcaption></figcaption></figure>
-
-🔗  Connect with me
-
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" data-size="line">](https://twitter.com/R007\_BR34K3R) [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" data-size="line">](https://www.linkedin.com/in/vinay-kumar-rasala-b79b331a7)
