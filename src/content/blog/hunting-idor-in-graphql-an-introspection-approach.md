@@ -135,7 +135,7 @@ Some GraphQL clients and tools also provide built-in support for introspection, 
 
 ## How can the introspection schema be utilized or visualized to gain a better understanding of a GraphQL API?
 
-[GraphQL Voyager](https://ivangoncharov.github.io/graphql-voyager/) **** is a helpful tool that developers/researcher can use to explore their GraphQL API as a graph. It generates a visual representation of the schema, allowing for an easier exploration and understanding of the structure and relationships between types and fields.
+[GraphQL Voyager](https://ivangoncharov.github.io/graphql-voyager/) is a helpful tool that developers/researcher can use to explore their GraphQL API as a graph. It generates a visual representation of the schema, allowing for an easier exploration and understanding of the structure and relationships between types and fields.
 
 ## Introspection in Action: A Practical Example
 
